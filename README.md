@@ -3,7 +3,7 @@
 ## TODO
 
 - [x] Setup Server
-      _ [x] Install Dependencies
-      _ [x] Install / Setup Linter
-      _ [x] Setup Express App
-      _ [x] Setup Not Found and Error Middlewares
+      - [x] Install Dependencies
+      - [x] Install / Setup Linter
+      - [x] Setup Express App
+      - [x] Setup Not Found and Error Middlewares
